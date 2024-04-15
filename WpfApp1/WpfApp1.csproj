@@ -154,7 +154,7 @@
       <DependentUpon>Model1.edmx</DependentUpon>
       <LastGenOutput>Model1.cs</LastGenOutput>
     </Content>
-    <Content Include="Resources\Shonazarov.sql" />
+    <Content Include="Resources\ShonazarovRus.sql" />
     <Resource Include="Resources\Варианты модификации.txt" />
     <Resource Include="Resources\Руководство системного программиста.txt" />
   </ItemGroup>
